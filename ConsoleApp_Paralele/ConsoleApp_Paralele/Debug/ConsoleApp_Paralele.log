@@ -1,0 +1,3 @@
+﻿  ConsoleApp_Paralele.cpp
+D:\Projects\Project Visual Studio\ConsoleApp_Paralele\ConsoleApp_Paralele\ConsoleApp_Paralele.cpp(24,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ConsoleApp_Paralele.vcxproj -> D:\Projects\Project Visual Studio\ConsoleApp_Paralele\Debug\ConsoleApp_Paralele.exe
